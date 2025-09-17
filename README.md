@@ -69,7 +69,7 @@ O tamanho define a quantidade de vCPU, memória RAM e capacidade de rede.
 - Use **Backup** para restaurar em caso de falhas.
 
 ---
-## 🔰A seguir guia dos passos 'Criar Máquina Virtual - Microsoft Azure':
+## 🔰A seguir, um guia dos passos 'Criar Máquina Virtual - Microsoft Azure':
 ### Aba 1: Básico = Esta é a primeira tela (aba) de configuração. Define a base da VM.
 - Grupo de Recursos: É um contêiner lógico que agrupa recursos do Azure. Use um grupo de recursos para organizar e gerenciar todos os ativos da sua VM (como discos e rede) em um só lugar.
 - Nome da Máquina Virtual: Escolha um nome claro e descritivo para sua VM. Exemplo: `minha-vm-webserver`. 
