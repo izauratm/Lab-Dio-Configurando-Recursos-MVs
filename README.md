@@ -5,10 +5,7 @@ O Bootcamp oferece uma base sólida em tecnologias de nuvem, abordando desde os 
 
 ---
 
-# 🧠 Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
-
 ## 🎯 Objetivo
-
 Este pequeno guia ensina como configurar os recursos de uma máquina virtual na Azure, incluindo CPU, memória, disco e rede, além de ajustar o dimensionamento conforme a necessidade do projeto.
 
 ---
