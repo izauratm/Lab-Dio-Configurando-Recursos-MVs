@@ -109,9 +109,7 @@ O tamanho define a quantidade de vCPU, memória RAM e capacidade de rede.
 - Aqui você revisa todas as suas configurações. A Azure também realiza uma validação automática para garantir que tudo está correto. Após a validação, clique em Criar para provisionar a sua VM.
 
 ## 📚 Recursos Adicionais
-
 - [Documentação oficial da Microsoft](https://learn.microsoft.com/pt-br/azure/virtual-machines/)
-- [Laboratório de Computação e Rede na DIO](https://web.dio.me/project/computacao-e-rede-laboratorio/learning/85b45fef-7863-4c43-a211-a1c4342f9cda?back=/track/microsoft-azure-az-900&tab=undefined&moduleId=undefined)
 - [Tutorial oficial para criar e gerenciar VMs Windows](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/tutorial-manage-vm)
 - [SQL do Azure para Iniciantes](https://learn.microsoft.com/pt-br/shows/azure-sql-for-beginners/)
 - [Portal Microsoft Azure](https://portal.azure.com/#allservices)
